@@ -2,4 +2,4 @@
 
 ## Output
 
-![ans2](Ans2.png)
+![ans2](ans2.png)

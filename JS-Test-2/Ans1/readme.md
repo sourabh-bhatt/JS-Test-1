@@ -1,5 +1,5 @@
-# Answer 2
+# Answer 1
 
 ## Output
 
-![ans1](Ans2.png)
+![Ans 1](ans1.png)
